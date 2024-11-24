@@ -32,5 +32,3 @@ Example: *When I [action], [unexpected behaviour] happens.
 ## 📸 Screenshots / Logs
 
 **Add screenshots, videos or logs if possible to better illustrate the problem**.
-
-Translated with DeepL.com (free version)
