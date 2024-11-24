@@ -28,6 +28,3 @@ Example: *As a user, I want [purpose], for [reason].*
 
 - Feature 1**: Describe what this feature should do.
 - **Feature 2**: Add more details about the specifics.
-
-
-Translated with DeepL.com (free version)
