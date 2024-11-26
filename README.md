@@ -26,8 +26,9 @@ Avant de commencer, assure toi d'avoir :
 1. Ouvre GitHub Desktop.
 2. Clique sur File > Clone repository en haut a gauche de l'application.  
  
-![Clone repository](https://github.com/user-attachments/assets/8c155212-a7f3-4c4f-8e77-437ba27437aa)
+![Screenshot 2024-11-26 114120](https://github.com/user-attachments/assets/c3f3d0af-c37b-4236-9908-9559deb85952)
 ---
+
 3. Écris juste le nom du projet dans la barre de recherche.
   
 ![Capture d'écran 2024-11-25 210558](https://github.com/user-attachments/assets/45d32030-cac9-45e8-a799-86d8782aa3a8)
