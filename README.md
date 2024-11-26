@@ -1,24 +1,5 @@
-# 📖 Table des matières / Table of Contents 📖  
-1. [🇫🇷 Français](https://github.com/Mathys-Hymon/GhostnGoblinsRemake/new/main?filename=README.md#-fran%C3%A7ais)   
-   1.1 [🎯 Objectifs](https://github.com/Mathys-Hymon/GhostnGoblinsRemake/new/main?filename=README.md#-objectifs)  
-   1.2 [🔗 Liens](https://github.com/Mathys-Hymon/GhostnGoblinsRemake/new/main?filename=README.md#-liens)  
-   1.3 [🛠️ Prérequis](https://github.com/Mathys-Hymon/GhostnGoblinsRemake/new/main?filename=README.md#%EF%B8%8F-pr%C3%A9requis)  
-   1.4 [🔎 Comment cloner le dépôt du projet ?](https://github.com/Mathys-Hymon/GhostnGoblinsRemake/new/main?filename=README.md#-comment-cloner-le-d%C3%A9p%C3%B4t-du-projet-)  
-   1.5 [🚀 Comment contribuer ?](https://github.com/Mathys-Hymon/GhostnGoblinsRemake/new/main?filename=README.md#-comment-contribuer-)  
-       - [1️⃣ Créer une issue 📝](https://github.com/Mathys-Hymon/GhostnGoblinsRemake/new/main?filename=README.md#1%EF%B8%8F%E2%83%A3-cr%C3%A9er-une-issue-)  
-       - [2️⃣ Faire une pull request (PR) ✨](https://github.com/Mathys-Hymon/GhostnGoblinsRemake/new/main?filename=README.md#3-ouvre-une-pull-request)  
-2. [🇬🇧 English](https://github.com/Mathys-Hymon/GhostnGoblinsRemake/new/main?filename=README.md#-english)   
-   1.1 [🎯 Objectives](https://github.com/Mathys-Hymon/GhostnGoblinsRemake/new/main?filename=README.md#-objectives)  
-   1.2 [🔗 Links](https://github.com/Mathys-Hymon/GhostnGoblinsRemake/new/main?filename=README.md#-links)  
-   1.3 [🛠️ Prerequisites](https://github.com/Mathys-Hymon/GhostnGoblinsRemake/new/main?filename=README.md#%EF%B8%8F-prerequisites)  
-   1.4 [🔎 How do I clone the project repository?](https://github.com/Mathys-Hymon/GhostnGoblinsRemake/new/main?filename=README.md#-how-do-i-clone-the-project-repository)  
-   1.5 [🚀 How to contribute?](https://github.com/Mathys-Hymon/GhostnGoblinsRemake/new/main?filename=README.md#-how-to-contribute-)  
-       - [1️⃣ Create an issue 📝](https://github.com/Mathys-Hymon/GhostnGoblinsRemake/new/main?filename=README.md#1%EF%B8%8F%E2%83%A3-create-an-issue-)  
-       - [2️⃣ Create a pull request (PR) ✨](https://github.com/Mathys-Hymon/GhostnGoblinsRemake/new/main?filename=README.md#2%EF%B8%8F%E2%83%A3-create-a-pull-request-pr-)
-   
-   ---
 # 🇫🇷 `Français`
-[🇬🇧 `English 🔗`](https://github.com/Mathys-Hymon/GhostnGoblinsRemake/new/main?filename=README.md#-english)  
+`English below` 
 
 # 🏹 Guide d'utilisation de GitHub pour le remake de ghost and goblins ! 🏹
 
